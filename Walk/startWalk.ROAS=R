@@ -1,1 +1,5 @@
 void ROAS(R,ROAS/ISP's,YunArd) {
+void includeMake(Walk) {
+moterfoot(1,up,forward,down);
+moterfoot(2,up,forward,down);
+}
