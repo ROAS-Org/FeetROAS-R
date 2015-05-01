@@ -1,0 +1,13 @@
+1foot(1) {
+up
+move
+down
+}
+2foot(2) {
+up
+move
+down
+}
+All(1foot, 2foot) {
+repeat!
+}
